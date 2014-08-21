@@ -254,7 +254,7 @@ a:focus {
     height:auto;
     padding: 0;
     color: #fff;
-    background: url(../img/Music-Turntable-Record-Player-1311486.png) no-repeat bottom center scroll;
+    background: url(../img/freeofice.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -274,8 +274,8 @@ a:focus {
 }
 
 #about{
-    padding:25px 0 100px 0;
-     background: #8F93B2;
+    padding:150px 0 100px 0;
+     background: #333333;
 }
 
 @media(min-width:767px) {
