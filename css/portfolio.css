@@ -179,7 +179,7 @@ a:focus {
     border: 2px solid #fff;
     border-radius: 35px;
     font-size: 40px;
-    color: #fff;
+    color: #747CFF;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -270,7 +270,7 @@ a:focus {
 
 #about , #contact{
     color: #fff;
-    background: #fff;
+    background: #000;
 }
 
 #about{
@@ -338,6 +338,7 @@ ul.banner-social-buttons {
 
 footer {
     padding: 50px 0;
+    background: #000;
 }
 
 footer p {
