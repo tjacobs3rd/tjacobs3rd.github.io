@@ -2,8 +2,8 @@ body {
     width: 100%;
     height: 100%;
     font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #fff;
-    background-color: #f3f3f3;
+    color: #000;
+    background-color: #;
 }
 
 html {
@@ -63,7 +63,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #000;
+    background-color: #fff;
 }
 
 .navbar-custom .navbar-brand {
@@ -86,7 +86,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #fff;
+    color: #000;
 }
 
 .navbar-custom .nav li.active {
@@ -134,8 +134,8 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #fff;
-    background: url(../img/LookingAtTheArch.jpg) no-repeat bottom center scroll;
+    color: #000;
+    background: url(../img/bookcase.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -176,10 +176,10 @@ a:focus {
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #fff;
+    border: 2px solid #000;
     border-radius: 35px;
     font-size: 40px;
-    color: #fff;
+    color: #000;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -189,7 +189,7 @@ a:focus {
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #fff;
+    color: #000;
     background: rgba(255,255,255,.1);
 }
 
@@ -253,8 +253,8 @@ a:focus {
     width: 100%;
     height:auto;
     padding: 0;
-    color: #fff;
-    background: url(../img/Typewriter.jpg) no-repeat bottom center scroll;
+    color: #000;
+    background: url(../img/turntable_playback-wallpaper-1366x768.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -268,13 +268,17 @@ a:focus {
     
 }
 
-#about , #contact{
+#about {
     color: #000;
+}
+
+#contact {
+  color: #000;
 }
 
 #about{
     padding:50px 0 100px 0;
-     background: #18bc9c;
+     background: #219AB3;
 }
 
 @media(min-width:767px) {
@@ -299,7 +303,7 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #000;
+    border: 1px solid #fff;
     color: #fff;
     background-color: black;
 }
@@ -345,7 +349,7 @@ footer p {
 ::-moz-selection {
     text-shadow: none;
     background: #fcfcfc;
-    background: rgba(255,255,255,.2);
+    background: rgba(0, 0, 0, .2);
 }
 
 ::selection {
